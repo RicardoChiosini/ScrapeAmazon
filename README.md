@@ -20,13 +20,12 @@ A simple full stack project to scrape the first page of Amazon product listings 
 
 ## How to Run
 
-### Backend
+### Backend e Frontend
 
+```bash
 cd backend
 bun install
 bun index.ts
-
-### Frontend
 
 cd frontend
 npm install

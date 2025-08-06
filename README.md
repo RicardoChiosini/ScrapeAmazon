@@ -22,7 +22,6 @@ A simple full stack project to scrape the first page of Amazon product listings 
 
 ### Backend
 
-```bash
 cd backend
 bun install
 bun index.ts

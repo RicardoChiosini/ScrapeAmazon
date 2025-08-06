@@ -29,7 +29,6 @@ bun index.ts
 
 ### Frontend
 
-```bash
 cd frontend
 npm install
 npm run dev
